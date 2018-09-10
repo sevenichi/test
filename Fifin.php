@@ -1,41 +1,12 @@
-﻿<?php
-    echo "<html>";
-    echo "<head>";
-    echo "<title>HTML Sejarah Perkembangan Visual Basic</title>";
-    echo "</head>";
-    echo "<body>";
-    echo "Proyek "thunder" dirintis";
-    echo "Visual Basic 1.0 (may 1991) dirilis untuk windows";
-    echo "pada comdex/windows wordltrade yang dipertunjukkan di Atlanta,Georgia";
-    echo "Visual Basic 1.0 untuk DOS dirilis pada bulan september 1992";
-    echo "Bahasa ini tidak kompatibel dengan visual basic for windows";
-    echo "UB 1.0 for DOS ini pada kenyataannya merupakan versi kelanjutan dari compiler basic, Quick Basic dan Basic professional development system";
-     echo "Visual Basic 2.0 dirilis pada November 1992";
-     echo "Cakupan pemrogramannya cukup mudah untuk digunakan dan kecepatannya juga telah dimodifikasi";
-     echo "Visual Basic 3.0 dirilis pada musim panas 1993";
-     echo "dan dibagi menjadi versi standart dan profesional";
-     echo "Visual Basic 4.0 (Agustus 1995) merupakan versi pertama";
-     echo "yang dapat membuat windows program 32 bit sebaik versi 16 bitnya";
-     echo "Visual Basic 5.0 (February 1997)";
-     echo "Mocrosoft merilis secara eksklusif visual basic untuk versi windows 32 bit";
-     echo "Visual Basic 6.0 (pertengahan 1998)";
-     echo "memperbaiki beberapa cakupan, termasuk kemampuannya untuk membuat aplikasi web-based";
-     echo "Visual Basic NET (VB 7), dirilis pada tahun 2002";
-     echo "NET ini mengemukakan bahwa bahasa ini sangat powerfull tapi bahasanya yang digunakan sangat berbeda dengan bahasa sebelumnya";
-     echo "Visual Basic NET 2003 (VB 7.1) dirilis dengan menggunakan NET framework versi 1.1";
-     echo "Visual Basic 2005 (VB 8.0)";
-     echo "merupakana iterasi selanjutnya dari visual Basic";
-      echo "Pada rilis ini microsoft memasukan beberapa fitur baru,diantaranya : Edit and continue,mungkin inilah kekurangan fitur terbesar dari VB.NET";
-      echo "Perbaikan pada konversi dari UB ke UB NET 12";
-      echo "Visual Basic NET 2003 (VB 7.1), dirilis dengan menggunakan NET Framework verai 1.1";
-      echo "ISNOT PATENT, merupakan salah satu fitur dari visual basic 2005 merupakan konversi IF NOT X IS Y Menjadi IF X ISNOT Y";
-      echo "Visual Basic 2005 EXPRESS, merupakan bagian dari product visual studio";
-      echo "Microsoft membuatnya untuk pemula dan gemar dengan VB";
-      echo "Visual Basic "ORCAS" (VB 9.0) dirilis pada tahun 2007 dan dibangun diatas";
-      echo "True Tenary operator yaitu fungsi IF (boolean, value, value) yang digunakan untuk menggantikan fungsi IF";
-      echo "Visual Basic "VBX" (VB 10.1), Visual Basic 10, yang kuga dikenal dengan nama VBX";
-      echo "akan menawarkan dukungan untuk Dynamic Language Runtime";
-      echo "VB 10 direncanakan akan menjadi bagian dari silverligh";
-      echo "</body>";
-      echo "</html>";
-?>
+<?php
+	 //php 7.0
+ 	echo "<html>"
+ 	echo "<head>"
+ 	echo "<title> html dlam php </title>"
+ 	echo "</head>"
+ 	echo "<body>"
+ 	echo "blablablablabla"
+ 	echo "</body>"
+ 	echo "</html>"
+
+ ?>
